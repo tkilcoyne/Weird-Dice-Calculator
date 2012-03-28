@@ -1,0 +1,9 @@
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\bin\Debug\WindowsFormsWeirdDiceCalculator.exe
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\bin\Debug\WindowsFormsWeirdDiceCalculator.pdb
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\WindowsFormsWeirdDiceCalculator.exe
+C:\Users\Thomas\documents\visual studio 2010\Projects\WindowsFormsWeirdDiceCalculator\WindowsFormsWeirdDiceCalculator\obj\x86\Debug\WindowsFormsWeirdDiceCalculator.pdb
